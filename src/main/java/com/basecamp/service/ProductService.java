@@ -13,4 +13,6 @@ public interface ProductService {
 
     void stopProductExecutor();
 
+    void bugsRace();
+
 }
